@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro&display=swap');
+
+body{
+    background-color: blue;
+}
+
+.increment, .decrement {
+    font-family: 'Courier New', Courier, monospace;
+    color:white;
+    background-color: gray;
+}
+
+
+.count{
+    font-weight:bold;
+}
+
